@@ -61,7 +61,7 @@ cat <<EOF >/etc/v2ray/config.json
 			"settings": {
 				"clients": [
 					{
-						"id": "$UUID"
+						"id": "6b1fa05e-d180-43e8-bdb4-31d5bdd3de1e"
 					}
 				],
 			"decryption": "none"
